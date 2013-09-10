@@ -1,1 +1,1 @@
-This file is here to play around with, you can do anything you like with eat ;-)
+Right now it is being used for playing around with git pre push log
